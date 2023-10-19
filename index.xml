@@ -11,24 +11,26 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Sep 2023 18:30:57 -0500</lastBuildDate><atom:link href="https://brucehrwang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Oct 2023 18:06:30 -0500</lastBuildDate><atom:link href="https://brucehrwang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>test new</title>
-      <link>https://brucehrwang.github.io/posts/sep_29_2023/</link>
-      <pubDate>Thu, 28 Sep 2023 18:30:57 -0500</pubDate>
+      <title>Mechanisitic Interpretability</title>
+      <link>https://brucehrwang.github.io/posts/mechanistic_interpretability/</link>
+      <pubDate>Wed, 18 Oct 2023 18:06:30 -0500</pubDate>
       
-      <guid>https://brucehrwang.github.io/posts/sep_29_2023/</guid>
-      <description></description>
+      <guid>https://brucehrwang.github.io/posts/mechanistic_interpretability/</guid>
+      <description>In this blog, I will introduce a research direction focusing on mechanistic interpretability. This holds significant potential to revolutionize the existing landscape of AI.
+Chris Olah drew a compelling analogy when he likened mechanistic interpretability to the process of reverse engineering a compiled binary computer program.
+Reverse Engineer Neural Networks
+&amp;ldquo;Mechanistic interpretability aims to reverse engineer neural networks, much like the process of reverse engineering a compiled binary computer program. In essence, the parameters of a neural network can be viewed as a binary computer program operating on a specialized virtual machine known as a neural network architecture.</description>
     </item>
     
     <item>
-      <title>Activation Engineering</title>
-      <link>https://brucehrwang.github.io/posts/sep_28_2023/</link>
+      <title>How to SSH into your PC at home</title>
+      <link>https://brucehrwang.github.io/posts/ssh/</link>
       <pubDate>Thu, 28 Sep 2023 18:06:30 -0500</pubDate>
       
-      <guid>https://brucehrwang.github.io/posts/sep_28_2023/</guid>
-      <description>Activation Engineering is the direct manipulation of activation vectors inside of a trained machine learning model. Potentially, it is a way to steer a model&amp;rsquo;s behavior.
-Activation engineering can be contrasted with other strategies for steering models: fine-tuning the models for desired behavior and crafting prompts that get a particular response.</description>
+      <guid>https://brucehrwang.github.io/posts/ssh/</guid>
+      <description>In this blog, I will introduce the method I use to ssh into my pc at home. I built my PC back in 2020 so that I would have a little more computing power at my fignertips when I need it. My hope was to avoid having to pay for cloud computing services for my deep learning and CUDA projects. Being someone who enjoys working at a library, I would like to be able to connect to my PC remotely.</description>
     </item>
     
   </channel>
