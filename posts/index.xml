@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on bruce&#39;s blog</title>
     <link>https://brucehrwang.github.io/posts/</link>
@@ -11,27 +11,33 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Oct 2023 18:06:30 -0500</lastBuildDate><atom:link href="https://brucehrwang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jan 2024 18:06:30 -0500</lastBuildDate>
+    <atom:link href="https://brucehrwang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to change Ubuntu UI to MacOS-themed</title>
+      <link>https://brucehrwang.github.io/posts/mac_theme/</link>
+      <pubDate>Sat, 27 Jan 2024 18:06:30 -0500</pubDate>
+      <guid>https://brucehrwang.github.io/posts/mac_theme/</guid>
+      <description>In this blog, I will show how to change Ubuntu UI to MacOS alike. Ubuntu is great for work and productivity, but its UI is very basic. Luckily, thanks to the community, there are tools that can tweak Ubuntu UI to look like MacOS. Here is an example of the end result:
+First, we need to install gnome-tweaks and gnome-shell-extension-manager:
+sudo apt install gnome-tweaks gnome-shell-extension-manager Next, clone the WhiteSur-gtk-theme repo, open the repo and run the installation script:</description>
+    </item>
     <item>
       <title>Mechanisitic Interpretability</title>
       <link>https://brucehrwang.github.io/posts/mechanistic_interpretability/</link>
       <pubDate>Wed, 18 Oct 2023 18:06:30 -0500</pubDate>
-      
       <guid>https://brucehrwang.github.io/posts/mechanistic_interpretability/</guid>
       <description>In this blog, I will introduce a research direction focusing on mechanistic interpretability. This holds significant potential to revolutionize the existing landscape of AI.
 Chris Olah drew a compelling analogy when he likened mechanistic interpretability to the process of reverse engineering a compiled binary computer program.
 Reverse Engineer Neural Networks
 &amp;ldquo;Mechanistic interpretability aims to reverse engineer neural networks, much like the process of reverse engineering a compiled binary computer program. In essence, the parameters of a neural network can be viewed as a binary computer program operating on a specialized virtual machine known as a neural network architecture.</description>
     </item>
-    
     <item>
       <title>How to SSH into your PC at home</title>
       <link>https://brucehrwang.github.io/posts/ssh/</link>
       <pubDate>Thu, 28 Sep 2023 18:06:30 -0500</pubDate>
-      
       <guid>https://brucehrwang.github.io/posts/ssh/</guid>
       <description>In this blog, I will introduce the method I use to ssh into my pc at home. I built my PC back in 2020 so that I would have a little more computing power at my fignertips when I need it. My hope was to avoid having to pay for cloud computing services for my deep learning and CUDA projects. Being someone who enjoys working at a library, I would like to be able to connect to my PC remotely.</description>
     </item>
-    
   </channel>
 </rss>
