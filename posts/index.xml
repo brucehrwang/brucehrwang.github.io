@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on bruce&#39;s blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://brucehrwang.github.io/posts/</link>
     <description>Recent content in Posts on bruce&#39;s blog</description>
     <image>
       <title>bruce&#39;s blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://brucehrwang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://brucehrwang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 27 Jan 2024 18:06:30 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brucehrwang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to change Ubuntu UI to MacOS-themed</title>
-      <link>http://localhost:1313/posts/mac_theme/</link>
+      <link>https://brucehrwang.github.io/posts/mac_theme/</link>
       <pubDate>Sat, 27 Jan 2024 18:06:30 -0500</pubDate>
-      <guid>http://localhost:1313/posts/mac_theme/</guid>
+      <guid>https://brucehrwang.github.io/posts/mac_theme/</guid>
       <description>&lt;p&gt;In this blog, I will show how to change Ubuntu UI to MacOS alike. Ubuntu is great for work and productivity, but its UI is very basic. Luckily, thanks to the community, there are tools that can tweak Ubuntu UI to look like MacOS. Here is an example of the end result:&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/desktop.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
@@ -27,9 +27,9 @@
     </item>
     <item>
       <title>Mechanisitic Interpretability</title>
-      <link>http://localhost:1313/posts/mechanistic_interpretability/</link>
+      <link>https://brucehrwang.github.io/posts/mechanistic_interpretability/</link>
       <pubDate>Wed, 18 Oct 2023 18:06:30 -0500</pubDate>
-      <guid>http://localhost:1313/posts/mechanistic_interpretability/</guid>
+      <guid>https://brucehrwang.github.io/posts/mechanistic_interpretability/</guid>
       <description>&lt;p&gt;In this blog, I will introduce a research direction focusing on mechanistic interpretability. This holds significant potential to revolutionize the existing landscape of AI.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://colah.github.io/about.html&#34;&gt;Chris Olah&lt;/a&gt; drew a compelling analogy when he likened mechanistic interpretability to the process of reverse engineering a compiled binary computer program.&lt;/p&gt;
 &lt;hr&gt;
@@ -38,9 +38,9 @@
     </item>
     <item>
       <title>How to SSH into your PC at home</title>
-      <link>http://localhost:1313/posts/ssh/</link>
+      <link>https://brucehrwang.github.io/posts/ssh/</link>
       <pubDate>Thu, 28 Sep 2023 18:06:30 -0500</pubDate>
-      <guid>http://localhost:1313/posts/ssh/</guid>
+      <guid>https://brucehrwang.github.io/posts/ssh/</guid>
       <description>&lt;p&gt;In this blog, I will introduce the method I use to ssh into my pc at home. I built my PC back in 2020 so that I would have a little more computing power at my fignertips when I need it. My hope was to avoid having to pay for cloud computing services for my deep learning and CUDA projects. Being someone who enjoys working at a library, I would like to be able to connect to my PC remotely. However, I found that it is a little bit more complicated than just installing openssh-server on the PC. It turns out I also need to assign port forwarding to my PC so that the router knows which device to forward the request to.&lt;/p&gt;</description>
     </item>
   </channel>
