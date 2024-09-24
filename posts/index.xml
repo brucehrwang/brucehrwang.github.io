@@ -2,42 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on bruce&#39;s blog</title>
-    <link>https://brucehrwang.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on bruce&#39;s blog</description>
     <image>
       <title>bruce&#39;s blog</title>
-      <url>https://brucehrwang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://brucehrwang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 27 Jan 2024 18:06:30 -0500</lastBuildDate>
-    <atom:link href="https://brucehrwang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to change Ubuntu UI to MacOS-themed</title>
-      <link>https://brucehrwang.github.io/posts/mac_theme/</link>
+      <link>http://localhost:1313/posts/mac_theme/</link>
       <pubDate>Sat, 27 Jan 2024 18:06:30 -0500</pubDate>
-      <guid>https://brucehrwang.github.io/posts/mac_theme/</guid>
-      <description>In this blog, I will show how to change Ubuntu UI to MacOS alike. Ubuntu is great for work and productivity, but its UI is very basic. Luckily, thanks to the community, there are tools that can tweak Ubuntu UI to look like MacOS. Here is an example of the end result:
-First, we need to install gnome-tweaks and gnome-shell-extension-manager:
-sudo apt install gnome-tweaks gnome-shell-extension-manager Next, clone the WhiteSur-gtk-theme repo, open the repo and run the installation script:</description>
+      <guid>http://localhost:1313/posts/mac_theme/</guid>
+      <description>&lt;p&gt;In this blog, I will show how to change Ubuntu UI to MacOS alike. Ubuntu is great for work and productivity, but its UI is very basic. Luckily, thanks to the community, there are tools that can tweak Ubuntu UI to look like MacOS. Here is an example of the end result:&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/desktop.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;First, we need to install &lt;code&gt;gnome-tweaks&lt;/code&gt; and &lt;code&gt;gnome-shell-extension-manager&lt;/code&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt install gnome-tweaks gnome-shell-extension-manager
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Next, clone the &lt;a href=&#34;https://github.com/vinceliuice/WhiteSur-gtk-theme&#34;&gt;WhiteSur-gtk-theme&lt;/a&gt; repo, open the repo and run the installation script:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mechanisitic Interpretability</title>
-      <link>https://brucehrwang.github.io/posts/mechanistic_interpretability/</link>
+      <link>http://localhost:1313/posts/mechanistic_interpretability/</link>
       <pubDate>Wed, 18 Oct 2023 18:06:30 -0500</pubDate>
-      <guid>https://brucehrwang.github.io/posts/mechanistic_interpretability/</guid>
-      <description>In this blog, I will introduce a research direction focusing on mechanistic interpretability. This holds significant potential to revolutionize the existing landscape of AI.
-Chris Olah drew a compelling analogy when he likened mechanistic interpretability to the process of reverse engineering a compiled binary computer program.
-Reverse Engineer Neural Networks
-&amp;ldquo;Mechanistic interpretability aims to reverse engineer neural networks, much like the process of reverse engineering a compiled binary computer program. In essence, the parameters of a neural network can be viewed as a binary computer program operating on a specialized virtual machine known as a neural network architecture.</description>
+      <guid>http://localhost:1313/posts/mechanistic_interpretability/</guid>
+      <description>&lt;p&gt;In this blog, I will introduce a research direction focusing on mechanistic interpretability. This holds significant potential to revolutionize the existing landscape of AI.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://colah.github.io/about.html&#34;&gt;Chris Olah&lt;/a&gt; drew a compelling analogy when he likened mechanistic interpretability to the process of reverse engineering a compiled binary computer program.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Reverse Engineer Neural Networks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Mechanistic interpretability aims to reverse engineer neural networks, much like the process of reverse engineering a compiled binary computer program. In essence, the parameters of a neural network can be viewed as a binary computer program operating on a specialized virtual machine known as a neural network architecture.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to SSH into your PC at home</title>
-      <link>https://brucehrwang.github.io/posts/ssh/</link>
+      <link>http://localhost:1313/posts/ssh/</link>
       <pubDate>Thu, 28 Sep 2023 18:06:30 -0500</pubDate>
-      <guid>https://brucehrwang.github.io/posts/ssh/</guid>
-      <description>In this blog, I will introduce the method I use to ssh into my pc at home. I built my PC back in 2020 so that I would have a little more computing power at my fignertips when I need it. My hope was to avoid having to pay for cloud computing services for my deep learning and CUDA projects. Being someone who enjoys working at a library, I would like to be able to connect to my PC remotely.</description>
+      <guid>http://localhost:1313/posts/ssh/</guid>
+      <description>&lt;p&gt;In this blog, I will introduce the method I use to ssh into my pc at home. I built my PC back in 2020 so that I would have a little more computing power at my fignertips when I need it. My hope was to avoid having to pay for cloud computing services for my deep learning and CUDA projects. Being someone who enjoys working at a library, I would like to be able to connect to my PC remotely. However, I found that it is a little bit more complicated than just installing openssh-server on the PC. It turns out I also need to assign port forwarding to my PC so that the router knows which device to forward the request to.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
